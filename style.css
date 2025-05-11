@@ -1,0 +1,898 @@
+
+body {
+ font-family: "Shantell Sans", cursive;
+ padding: 0;
+ margin: 0;
+ overflow: hidden;
+}
+
+h1, h2 {
+font-family: "Great Vibes", cursive;
+text-align: center;
+color:  white;
+}
+
+header {
+ background: url(https://i.pinimg.com/736x/15/50/49/155049cf6ca3e428f5a17da0eb4db482.jpg) no-repeat center  center / cover; 
+ padding: 300px 40px;
+}
+
+p {
+  font-family: "Shantell Sans", cursive;
+  text-align: center;
+  color: white;
+  font-size: 25px;
+}
+
+.opacity {
+  opacity: 0;
+}
+
+.scene {
+ padding: 20px 10%;
+ min-height: 100vh;
+ background: url(https://i.pinimg.com/736x/80/9f/2c/809f2c851c5789513f81512fb64119f6.jpg) no-repeat center center / cover;
+ background-color: rgba(0,0,0,0.1);
+ background-blend-mode: darken;
+}
+
+.Cats1 {
+  text-decoration: none;
+  color: white;
+  background: #B3AF41; 
+  padding: 10px;
+  border-radius: 100%;
+  margin: 18px;
+}
+
+.Cats2 {
+  text-decoration: none;
+  color: white;
+  background: darkred; 
+  padding: 10px;
+  border-radius: 100%;
+  margin: 18px;
+}
+
+.Cats3 {
+  text-decoration: none;
+  color: white;
+  background: royalblue; 
+  padding: 10px;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.Cats4 {
+  text-decoration: none;
+  color: white;
+  background: #679935; 
+  padding: 10px;
+  border-radius: 100%;
+  margin: 18px;
+}
+
+#scene2a {
+ background: url(https://i.pinimg.com/736x/8b/3b/8e/8b3b8ec9bede5edd0743bfde77525af1.jpg) no-repeat center center / cover; 
+ background-color: rgba(0,0,0,0.1);
+ background-blend-mode: darken;
+}
+
+#scene2b {
+ background: url(https://i.pinimg.com/736x/6a/66/72/6a66727b7dda78da270be491863fc513.jpg) no-repeat center center / cover; 
+}
+
+#scene2c {
+ background: url(https://i.pinimg.com/736x/69/8f/44/698f440509f8db515a4cbb707fcf1ec6.jpg) no-repeat center center / cover;
+ background-color: rgba(0,0,0,0.1);
+ background-blend-mode: darken;
+}
+
+#scene2d {
+ background: url(https://i.pinimg.com/736x/a2/3d/52/a23d52137d7a11cbd85eb30fac397b5c.jpg) no-repeat center center / cover;
+ background-color: rgba(0,0,0,0.1);
+ background-blend-mode: darken;
+}
+
+.Name1 {
+  display: inline-block;
+  text-decoration: none;
+  background-color: #7095CC;
+  color: white;
+  padding: 10px;
+  border: 2px solid transparent;
+  border-radius: 100%;
+  margin: 78px;
+  text-align: center;
+  transition: 1s;
+  padding-top: 10px;
+}
+
+.Name1:hover{
+  background-color: royalblue;
+  border: 2px white;
+  transform: scale(1.5);
+}
+
+.Name2 {
+  display: inline-block;
+  text-decoration: none;
+  background-color: #471255;
+  color: white;
+  padding: 10px;
+  border-radius: 100%;
+  border: 2px solid transparent;
+  margin: 78px;
+  text-align: center;
+  transition: 1s;
+  padding-top: 10px;
+}
+
+.Name2:hover {
+  background-color: purple;
+  border: 2px white;
+  transform: scale(1.5);
+}
+
+.Name3 {
+  display: inline-block;
+  text-decoration: none;
+  background-color: #679935;
+  color: white;
+  padding: 10px;
+  border-radius: 100%;
+  border: 2px solid transparent;
+  margin: 78px;
+  text-align: center;
+  transition: 1s;
+  padding-top: 10px;
+}
+
+.Name3:hover {
+  background-color: darkcyan;
+  border: 2px white;
+  transform: scale(1.5);
+}
+
+.Name4 {
+  display: inline-block;
+  text-decoration: none;
+  background-color: #47C371;
+  color: white;
+  padding: 10px;
+  border-radius: 100%;
+  border: 2px solid transparent;
+  margin: 78px;
+  text-align: center;
+  transition: 1s;
+  padding-top: 10px;
+}
+
+.Name4:hover{
+  background-color: green;
+  border: 2px white;
+  transform: scale(1.5);
+}
+
+.Paporotexmapka {
+  background: url(https://i.pinimg.com/736x/9b/b9/74/9bb97483a4cb3bf8131c6849f3dfc1be.jpg) no-repeat       center   center / cover;
+  padding: 20px 10%;
+  min-height: 100vh;
+  background-color: rgba(0,0,0,0.2);
+  background-blend-mode: darken;
+}
+
+.Rol1 {
+  text-decoration: none;
+  background-color: #5883A5; 
+  color: white;
+  padding: 10px;
+  border-radius: 100%;
+  margin: 63px;
+  text-align: center;
+  border: 2px solid transparent;
+  transition: 1s;
+  padding-top: 10px
+}
+
+  .Rol1:hover{
+  background-color: #123552;
+  border: 2px white;
+  transform: scale(1.5);
+}
+
+.cat1 {
+  padding-top: 40px;
+}
+
+.DowoByc {
+  background: url(https://i.pinimg.com/736x/d3/ee/03/d3ee03f5bb138ca82517aa939982de48.jpg) no-repeat       center center / cover;
+  padding: 20px 10%;
+  min-height: 100vh;
+  background-color: rgba(0,0,0,0.1);
+  background-blend-mode: darken;
+}
+
+.Rol2 {
+  text-decoration: none;
+  background-color: lightblue;
+  color: white;
+  padding: 10px;
+  border-radius: 100%;
+  margin: 87px;
+  text-align: center;
+  border: 2px solid transparent;
+  transition: 1s;
+  padding-top: 10px
+}
+
+  .Rol2:hover{
+  background-color: royalblue;
+  border: 2px white;
+  transform: scale(1.5);
+}
+
+.BoxpowyBka {
+  background: url(https://i.pinimg.com/736x/97/d8/11/97d81158892c26246d53edba006122a1.jpg) no-repeat       center center / cover;
+  padding: 20px 10%;
+  min-height: 100vh;
+  background-color: rgba(0,0,0,0.1);
+  background-blend-mode: darken;
+}
+
+.Rol3 {
+  text-decoration: none;
+  background-color: darkorange;
+  color: white;
+  padding: 10px;
+  border-radius: 100%;
+  margin: 80px;
+  text-align: center;
+  border: 2px solid transparent;
+  transition: 1s;
+  padding-top: 10px
+}
+
+  .Rol3:hover{
+  background-color: #B15000;
+  border: 2px white;
+  transform: scale(1.5);
+}
+
+.DriBHoxmap {
+  background: url(https://i.pinimg.com/736x/f5/16/a2/f516a25d3403f4d145df4964b9811bd6.jpg) no-repeat center center /    cover;
+  padding: 20px 10%;
+  min-height: 100vh;
+  background-color: rgba(0,0,0,0.1);
+  background-blend-mode: darken;
+}
+
+.Rol4 {
+  text-decoration: none;
+  background-color: grey;
+  color: white;
+  padding: 10px;
+  border-radius: 100%;
+  margin: 87px;
+  text-align: center;
+  border: 2px solid transparent;
+  transition: 1s;
+  padding-top: 10px
+}
+
+  .Rol4:hover{
+  background-color: darkgrey;
+  border: 2px white;
+  transform: scale(1.5);
+}
+
+.PeroxBocTa{
+   background: url(https://i.pinimg.com/736x/ed/8c/f8/ed8cf88d791865c57eec0ace148c37d9.jpg) no-repeat center center /     cover;
+  padding: 20px 10%;
+  min-height: 100vh;
+  background-color: rgba(0,0,0,0.1);
+  background-blend-mode: darken; 
+}
+
+.Rol5 {
+  text-decoration: none;
+  background-color: royalblue;
+  color: white;
+  padding: 10px;
+  border-radius: 100%;
+  margin: 77px;
+  text-align: center;
+  border: 2px solid transparent;
+  transition: 1s;
+  padding-top: 10px
+}
+  
+  .Rol5:hover{
+  background-color: #00283C;
+  border: 2px white;
+  transform: scale(1.5);
+}
+
+.WylkokrNg {
+  background: url(https://i.pinimg.com/736x/19/23/84/192384dc2b6efb75a3980391a626a1b8.jpg) no-repeat center center /     cover;
+  padding: 20px 10%;
+  min-height: 100vh;
+  background-color: rgba(0,0,0,0.1);
+  background-blend-mode: darken;
+}
+
+.Rol6 {
+  text-decoration: none;
+  background-color: #388418;
+  color: white;
+  padding: 10px;
+  border-radius: 100%;
+  margin: 87px;
+  text-align: center;
+  border: 2px solid transparent;
+  transition: 1s;
+  padding-top: 10px
+}
+  
+  .Rol6:hover{
+  background-color: darkgreen;
+  border: 2px white;
+  transform: scale(1.5);
+}
+
+.MorningFlower {
+  background: url(https://i.pinimg.com/736x/3f/ba/f9/3fbaf91db55e10bf7865148aff5e1651.jpg) no-repeat center center /     cover;
+  padding: 20px 10%;
+  min-height: 100vh;
+  background-color: rgba(0,0,0,0.1);
+  background-blend-mode: darken;
+}
+
+.Rol7 {
+  text-decoration: none;
+  background-color: #D7AC00;
+  color: white;
+  padding: 10px;
+  border-radius: 100%;
+  margin: 77px;
+  text-align: center;
+  border: 2px solid transparent;
+  transition: 1s;
+  padding-top: 10px
+  }
+  
+  .Rol7:hover{
+  background-color: darkorange;
+  border: 2px white;
+  transform: scale(1.5);
+}
+  
+  .BNcokozopN {
+  background: url(https://i.pinimg.com/736x/b9/38/40/b93840f64bedc875de0eb72fe2ae0e8a.jpg) no-repeat center center /     cover;
+  padding: 20px 10%;
+  min-height: 100vh;
+  background-color: rgba(0,0,0,0.1);
+  background-blend-mode: darken;
+}
+
+.Rol8 {
+  text-decoration: none;
+  background-color: #05135A;
+  color: white;
+  padding: 10px;
+  border-radius: 100%;
+  border: 2px solid transparent;
+  margin: 87px;
+  text-align: center;
+  transition: 1s;
+  padding-top: 10px
+  }
+  
+  .Rol8:hover{
+  background-color: darkblue;
+  border: 2px white;
+  transform: scale(1.5);
+}
+  
+  .choose {
+    text-align: center;
+  }
+  
+  .OxoTa {
+  background: url(https://i.postimg.cc/qB527ryC/image.png) no-repeat       center center / cover;
+  padding: 20px 10%;
+  min-height: 100vh;
+  }
+
+.Rol9 {
+  text-decoration: none;
+  background-color: #006622;
+  color: white;
+  padding: 10px;
+  border-radius: 100%;
+  border: 2px solid transparent;
+  text-align: center;
+  transition: 1s;
+  margin: 28px;
+  }
+  
+  .Rol9:hover{
+  background-color: #004517;
+  border: 2px white;
+  transform: scale(3.5);
+}
+
+.TpaB {
+  background: url(https://i.postimg.cc/MpX4QqF2/4.png) no-repeat center center / cover;
+  padding: 20px 10%;
+  min-height: 100vh;
+  background-color: rgba(0,0,0,0.1);
+  background-blend-mode: darken;
+}
+
+.Rol10 {
+  text-decoration: none;
+  background-color: #007327;
+  color: white;
+  padding: 10px;
+  border-radius: 100%;
+  border: 2px solid transparent;
+  margin: 89px;
+  text-align: center;
+  transition: 1s;
+  padding-top: 10px;
+  }
+  
+  .Rol10:hover{
+  background-color: #004F1D;
+  border: 2px white;
+  transform: scale(1.5);
+}
+
+.BNxoBHBNk {
+  background: url(https://i.postimg.cc/qq3qRPH8/enchanted-1.png) no-repeat center center / cover;
+  padding: 20px 10%;
+  min-height: 100vh;
+  background-color: rgba(0,0,0,0.1);
+  background-blend-mode: darken;
+}
+
+.Rol11 {
+  text-decoration: none;
+  background-color: #00C1DC;
+  color: white;
+  padding: 10px;
+  border-radius: 100%;
+  border: 2px solid transparent;
+  text-align: center;
+  transition: 1s;
+  padding-top: 10px;
+  margin: 19px;
+  }
+  
+  .Rol11:hover{
+  background-color: #005460;
+  border: 2px white;
+  transform: scale(1.5);
+}
+
+.TpaB1 {
+  background: url(https://i.postimg.cc/g2DyyTnV/1.png) no-repeat center center / cover;
+  padding: 20px 10%;
+  min-height: 100vh;
+  background-color: rgba(0,0,0,0);
+  background-blend-mode: darken;
+}
+
+.Rol12 {
+  text-decoration: none;
+  background-color: royalblue;
+  color: white;
+  padding: 10px;
+  border-radius: 100%;
+  border: 2px solid transparent;
+  margin: 89px;
+  text-align: center;
+  transition: 1s;
+  padding-top: 10px;
+  }
+  
+  .Rol12:hover{
+  background-color: #003965;
+  border: 2px white;
+  transform: scale(1.5);
+}
+
+.OxoTa1 {
+  background: url(https://i.postimg.cc/g2Qz7YXm/image.png) no-repeat center center / cover;
+  padding: 20px 10%;
+  min-height: 100vh;
+  background-color: rgba(0,0,0,0);
+  background-blend-mode: darken;
+  }
+
+.Rol13 {
+  text-decoration: none;
+  background-color: orange;
+  color: white;
+  padding: 10px;
+  border-radius: 100%;
+  border: 2px solid transparent;
+  margin: 20.5px;
+  text-align: center;
+  transition: 1s;
+  padding-top: 10px;
+  }
+  
+  .Rol13:hover{
+  background-color: darkorange;
+  border: 2px white;
+  transform: scale(2.5);
+}
+
+  .TpaB2 {
+  background: url(https://i.postimg.cc/fWjD7Gxq/Flux-Dev-Create-an-image-a-stubborn-cat-gathering-herbs-in-a-m-3.jpg) no-repeat center center / cover;
+  padding: 20px 10%;
+  min-height: 100vh;
+  }
+
+.Rol14 {
+  text-decoration: none;
+  background-color: #00AB5D;
+  color: white;
+  padding: 10px;
+  border-radius: 100%;
+  border: 2px solid transparent;
+  margin: 86px;
+  text-align: center;
+  transition: 1s;
+  padding-top: 10px;
+  }
+  
+  .Rol14:hover{
+  background-color: #006D3B;
+  border: 2px white;
+  transform: scale(2.5);
+}
+
+  .OxoTa2 {
+  background: url(https://i.postimg.cc/9MtXM0CV/Flux-Dev-Create-an-image-of-a-serene-cat-nestled-in-a-whimsica-0.jpg) no-repeat center center / cover;
+  padding: 20px 10%;
+  min-height: 100vh;
+  background-color: rgba(0,0,0,0.2);
+  background-blend-mode: darken;
+  }
+
+.Rol15 {
+  text-decoration: none;
+  background-color: orange;
+  color: white;
+  padding: 10px;
+  border-radius: 100%;
+  border: 2px solid transparent;
+  margin: 17px;
+  text-align: center;
+  transition: 1s;
+  padding-top: 10px;
+  }
+  
+  .Rol15:hover{
+  background-color: darkorange;
+  border: 2px white;
+  transform: scale(2.5);
+}
+
+#scene4-b2 {
+  background: url(https://i.pinimg.com/736x/53/2a/d4/532ad41e2c46a51233159ba376f7d01a.jpg) no-repeat center center / cover;
+    padding: 20px 10%;
+  min-height: 100vh;
+  background-color: rgba(0,0,0,0.2);
+  background-blend-mode: darken;
+}
+
+.Rol16 {
+  text-decoration: none;
+  background-color: olive;
+  color: white;
+  padding: 10px;
+  border-radius: 100%;
+  border: 2px solid transparent;
+  margin: 89px;
+  text-align: center;
+  transition: 1s;
+  padding-top: 10px;
+  }
+  
+  .Rol16:hover{
+  background-color: green;
+  border: 2px white;
+  transform: scale(2.5);
+}
+
+.OxoTa3 {
+  background: url(https://i.postimg.cc/Wzd846nB/1.png) no-repeat center center / cover;
+  padding: 20px 10%;
+  min-height: 100vh;
+  background-color: rgba(0,0,0,0.2);
+  background-blend-mode: darken;
+  }
+
+.Rol17 {
+  text-decoration: none;
+  background-color: royalblue;
+  color: white;
+  padding: 10px;
+  border-radius: 100%;
+  border: 2px solid transparent;
+  margin: 50px;
+  text-align: center;
+  transition: 1s;
+  padding-top: 10px;
+  }
+  
+  .Rol17:hover{
+  background-color: lightblue;
+  border: 2px white;
+  transform: scale(2.5);
+}
+
+  .TpaB4 {
+  background: url(https://i.postimg.cc/MZ5jFQWw/image.png) no-repeat center center / cover;
+  padding: 20px 10%;
+  min-height: 100vh;
+  }
+
+.Rol18 {
+  text-decoration: none;
+  background-color: lightblue;
+  color: white;
+  padding: 10px;
+  border-radius: 100%;
+  border: 2px solid transparent;
+  margin: 80px;
+  text-align: center;
+  transition: 1s;
+  padding-top: 10px;
+  }
+  
+  .Rol18:hover{
+  background-color: royalblue;
+  border: 2px white;
+  transform: scale(2.5);
+}
+
+  .OxoTa4 {
+  background: url(https://i.postimg.cc/LXrWrBr8/Flux-Dev-Create-an-image-a-powerful-sleek-cat-with-lustrous-da-2.jpg) no-repeat center center / cover;
+  padding: 20px 10%;
+  min-height: 100vh;
+  background-color: rgba(0,0,0,0.2);
+  background-blend-mode: darken;
+  }
+
+.Rol19 {
+  text-decoration: none;
+  background-color: #004A62;
+  color: white;
+  padding: 10px;
+  border-radius: 100%;
+  border: 2px solid transparent;
+  margin: 19px;
+  text-align: center;
+  transition: 1s;
+  padding-top: 10px;
+  }
+  
+  .Rol19:hover{
+  background-color: #00A6DD;
+  border: 2px white;
+  transform: scale(2.5);
+}
+
+  .TpaB5 {
+  background: url(https://i.postimg.cc/VvCx6Hjt/Flux-Dev-Create-an-image-of-a-majestic-cat-gathering-herbs-alo-2.jpg) no-repeat center center / cover;
+  padding: 20px 10%;
+  min-height: 100vh;
+  }
+
+.Rol20 {
+  text-decoration: none;
+  background-color: #00749B;
+  color: white;
+  padding: 10px;
+  border-radius: 100%;
+  border: 2px solid transparent;
+  margin: 80px;
+  text-align: center;
+  transition: 1s;
+  padding-top: 10px;
+  }
+  
+  .Rol20:hover{
+  background-color: royalblue;
+  border: 2px white;
+  transform: scale(2.5);
+}
+
+.OxoTa5 {
+  background: url(https://i.postimg.cc/qqj82mJb/Flux-Dev-Create-an-image-of-a-vibrant-whimsical-fantasy-steppe-2.jpg) no-repeat center center / cover;
+  padding: 20px 10%;
+  min-height: 100vh;
+  background-color: rgba(0,0,0,0.2);
+  background-blend-mode: darken;
+  }
+
+.Rol21 {
+  text-decoration: none;
+  background-color: #73A232;
+  color: white;
+  padding: 10px;
+  border-radius: 100%;
+  border: 2px solid transparent;
+  margin: 19px;
+  text-align: center;
+  transition: 1s;
+  padding-top: 10px;
+  }
+  
+  .Rol21:hover{
+  background-color: #507E19;
+  border: 2px white;
+  transform: scale(2.5);
+}
+
+.TpaB6 {
+  background: url(https://i.postimg.cc/LsWQ1343/Flux-Dev-Create-an-image-of-a-whimsical-scene-where-a-tricolor-3.jpg) no-repeat center center / cover;
+  padding: 20px 10%;
+  min-height: 100vh;
+  }
+
+.Rol22 {
+  text-decoration: none;
+  background-color: #7DBB00;
+  color: white;
+  padding: 10px;
+  border-radius: 100%;
+  border: 2px solid transparent;
+  margin: 80px;
+  text-align: center;
+  transition: 1s;
+  padding-top: 10px;
+  }
+  
+  .Rol22:hover{
+  background-color: #629300;
+  border: 2px white;
+  transform: scale(2.5);
+}
+
+  .OxoTa6 {
+  background: url(https://i.postimg.cc/WbrtPqVt/image.png) no-repeat center center / cover;
+  padding: 20px 10%;
+  min-height: 100vh;
+  background-color: rgba(0,0,0,0.2);
+  background-blend-mode: darken;
+  }
+
+.Rol23 {
+  text-decoration: none;
+  background-color: #F8AA00;
+  color: white;
+  padding: 10px;
+  border-radius: 100%;
+  border: 2px solid transparent;
+  margin: 19px;
+  text-align: center;
+  transition: 1s;
+  padding-top: 10px;
+  }
+  
+  .Rol23:hover{
+  background-color: #9D6C00;
+  border: 2px white;
+  transform: scale(2.5);
+}
+
+  .TpaB7 {
+  background: url(https://i.postimg.cc/KcCrNTQY/image.png) no-repeat center center / cover;
+  padding: 20px 10%;
+  min-height: 100vh;
+  }
+
+.Rol24 {
+  text-decoration: none;
+  background-color: #BA5D;
+  color: white;
+  padding: 10px;
+  border-radius: 100%;
+  border: 2px solid transparent;
+  margin: 80px;
+  text-align: center;
+  transition: 1s;
+  padding-top: 10px;
+  }
+  
+  .Rol24:hover{
+  background-color: royalblue;
+  border: 2px white;
+  transform: scale(2.5);
+}
+
+.scene0 {
+   background: url(https://i.postimg.cc/Ls0mPmSr/image.png) no-repeat center center / cover;
+  padding: 20px 10%;
+  min-height: 100vh; 
+}
+
+.Rol25 {
+  text-decoration: none;
+  background-color: #7DBB00;
+  color: white;
+  padding: 10px;
+  border-radius: 100%;
+  border: 2px solid transparent;
+  margin: 80px;
+  text-align: center;
+  transition: 1s;
+  padding-top: 10px;
+  }
+  
+  .Rol25:hover{
+  background-color: #629300;
+  border: 2px white;
+  transform: scale(2.5);
+}
+
+footer {
+  background-color: #7DBB00;
+    padding: 20px 10%;
+  min-height: 100vh;
+  }
+  
+  .Rol26 {
+  text-decoration: none;
+  background-color: #629300;
+  color: white;
+  padding: 10px;
+  border-radius: 100%;
+  border: 2px solid transparent;
+  margin: 100px;
+  text-align: center;
+  transition: 1s;
+  padding-top: 10px;
+  }
+  
+  .Rol26:hover{
+  background-color: darkgreen;
+  border: 2px white;
+  transform: scale(2.5);
+}
+
+.next {
+   text-decoration: none;
+  background-color: orange;
+  color: white;
+  padding: 10px;
+  border-radius: 100%;
+  border: 3px solid white;
+  margin: 100px;
+  text-align: center;
+  padding-top: 10px;
+  }
+
+.become {
+   text-decoration: none;
+  background-color: pink;
+  color: white;
+  padding: 25px;
+  border-radius: 100%;
+  border: 3px solid white;
+  text-align: center;
+  padding-top: 18px;
+  margin: 700px;
+  }
+  
+  img {
+    height:300px;
+    width: 220px;
+    text-align: center;
+}
