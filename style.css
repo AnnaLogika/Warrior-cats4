@@ -556,7 +556,7 @@ p {
 }
 
   .OxoTa2 {
-  background: url(https://i.postimg.cc/9MtXM0CV/Flux-Dev-Create-an-image-of-a-serene-cat-nestled-in-a-whimsica-0.jpg) no-repeat center center / cover;
+  background: url(https://i.pinimg.com/736x/53/2a/d4/532ad41e2c46a51233159ba376f7d01a.jpg) no-repeat center center / cover;
   padding: 20px 10%;
   min-height: 100vh;
   background-color: rgba(0,0,0,0.2);
@@ -582,10 +582,12 @@ p {
   transform: scale(2.5);
 }
 
-#scene4-b2 {
-  background: url(https://i.pinimg.com/736x/f5/16/a2/f516a25d3403f4d145df4964b9811bd6.jpg) no-repeat center center / cover;
+.TpaB3 {
+  background: url(https://i.postimg.cc/9MtXM0CV/Flux-Dev-Create-an-image-of-a-serene-cat-nestled-in-a-whimsica-0.jpg) no-repeat center center / cover;
   padding: 20px 10%;
   min-height: 100vh;
+  background-color: rgba(0,0,0,0.2);
+  background-blend-mode: darken;
 }
 
 .Rol16 {
